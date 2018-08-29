@@ -9,13 +9,13 @@ var navigate = (function() {
 
 //based on helpful exmaples from w3schools.com
 
-/*var slider = document.getElementById("myRange");
+var slider = document.getElementById("myRange");
 var output = document.getElementById("value");
 output.innerHTML = slider.value; // Display the default slider value
 
 
 // Update the current slider value (each time you drag the slider handle)
-slider.oninput = function() {
+/*slider.oninput = function() {
     output.innerHTML = this.value;
 
     // change the line height based on the slider value
