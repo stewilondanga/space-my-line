@@ -58,12 +58,12 @@ mark {
   border-radius: 7px;
 }
 
-/*.adjust p {
+.adjust p {
   font-family: 'Montserrat', sans-serif;
-  font-size:.8em;
+  font-size: .8em;
 }
 
-#value, #percent {
+/*#value, #percent {
   font-size:2em;
   color: #245341;
 }
