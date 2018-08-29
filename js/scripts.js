@@ -1,15 +1,15 @@
-/*var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+var navigate = (function() {
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
 
 //based on helpful exmaples from w3schools.com
 
-var slider = document.getElementById("myRange");
+/*var slider = document.getElementById("myRange");
 var output = document.getElementById("value");
 output.innerHTML = slider.value; // Display the default slider value
 
