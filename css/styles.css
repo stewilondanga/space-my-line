@@ -63,13 +63,12 @@ mark {
   font-size: .8em;
 }
 
-/*#value, #percent {
-  font-size:2em;
+#value, #percent {
+  font-size: 2em;
   color: #245341;
 }
 
-
-#myRange {
+/*#myRange {
     -webkit-appearance: none;
     padding:0;
     margin:0;
