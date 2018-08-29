@@ -49,16 +49,16 @@ mark {
 
 /* start sidebar */
 
-/*.adjust{
-  float:left;
-  margin:2%;
-  width:22%;
-  text-align:center;
-  background-color:#fff;
-  border-radius:7px;
+.adjust {
+  float: left;
+  margin: 2%;
+  width: 22%;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 7px;
 }
 
-.adjust p {
+/*.adjust p {
   font-family: 'Montserrat', sans-serif;
   font-size:.8em;
 }
