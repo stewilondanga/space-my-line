@@ -1,3 +1,7 @@
+/*importing google fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600');
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,9 +25,8 @@
   height: 1.5em;
 }
 */
-/*importing google fonts */
-/*@import url('https://fonts.googleapis.com/css?family=Merriweather');
-@import url('https://fonts.googleapis.com/css?family=Montserrat:600');
+
+/*
 
 body {background-color:#dddeee;}
 
@@ -34,6 +37,7 @@ h1 {
   opacity:.1;
 }
 */
+
 /* start body of text */
 
 /*.container {
@@ -52,6 +56,7 @@ mark {
 
 }
 */
+
 /* end body of text */
 
 /* start sidebar */
@@ -107,6 +112,7 @@ mark {
     cursor: pointer;
 }
 */
+
 /* end sidebar */
 
 /*.containers {
