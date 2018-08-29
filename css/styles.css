@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -20,8 +20,96 @@ body {
 .my_social a img {
   height: 1.5em;
 }
+*/
+/*importing google fonts */
+/*@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600');
 
-.containers {
+body {background-color:#dddeee;}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+  font-size:2em;
+  text-align:center;
+  opacity:.1;
+}
+*/
+/* start body of text */
+
+/*.container {
+  width:70%;
+  margin:2%;
+  float:right;
+}
+
+#words{
+  font-family: 'Merriweather', serif;
+  font-size:2em;
+}
+
+mark {
+  background-color:#fff;
+
+}
+*/
+/* end body of text */
+
+/* start sidebar */
+
+/*.adjust{
+  float:left;
+  margin:2%;
+  width:22%;
+  text-align:center;
+  background-color:#fff;
+  border-radius:7px;
+}
+
+.adjust p {
+  font-family: 'Montserrat', sans-serif;
+  font-size:.8em;
+}
+
+#value, #percent {
+  font-size:2em;
+  color: #245341;
+}
+
+
+#myRange {
+    -webkit-appearance: none;
+    padding:0;
+    margin:0;
+    width: 100%;
+    height: 10px;
+    background: #dddeee;
+    outline: none;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+
+#myRange::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 17px;
+    height: 17px;
+    border-radius:30px;
+    background: #222;
+    cursor: pointer;
+}
+
+#myRange::-moz-range-thumb {
+    width: 17px;
+    height: 17px;
+    border-radius:30px;
+    background: #222;
+    cursor: pointer;
+}
+*/
+/* end sidebar */
+
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
@@ -76,3 +164,4 @@ body {
   padding: 0 2px;
   line-height: 100%;
 }
+*/
