@@ -23,11 +23,11 @@ slider.oninput = function() {
     document.getElementById("words").style.lineHeight = lh;
 
     // if the slider value is outside of optimum legibility, make the label red
-    /*      if (slider.value < 120) {
-            document.getElementById("value").style.color = "#d65836";
-            document.getElementById("percent").style.color = "#d65836";
-          }
-          else if (slider.value > 145) {
+    if (slider.value < 120) {
+      document.getElementById("value").style.color = "#d65836";
+      document.getElementById("percent").style.color = "#d65836";
+    }
+    /*      else if (slider.value > 145) {
            document.getElementById("value").style.color = "#d65836";
           document.getElementById("percent").style.color = "#d65836";
           }
