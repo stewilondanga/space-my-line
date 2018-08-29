@@ -80,17 +80,17 @@ mark {
   transition: opacity .2s;
 }
 
-/*#myRange::-webkit-slider-thumb {
-    -webkit-appearance: none;
-    appearance: none;
-    width: 17px;
-    height: 17px;
-    border-radius:30px;
-    background: #222;
-    cursor: pointer;
+#myRange::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 17px;
+  height: 17px;
+  border-radius: 30px;
+  background: #222;
+  cursor: pointer;
 }
 
-#myRange::-moz-range-thumb {
+/*#myRange::-moz-range-thumb {
     width: 17px;
     height: 17px;
     border-radius:30px;
