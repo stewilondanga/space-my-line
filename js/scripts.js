@@ -26,13 +26,12 @@ slider.oninput = function() {
     if (slider.value < 120) {
       document.getElementById("value").style.color = "#d65836";
       document.getElementById("percent").style.color = "#d65836";
+    } else if (slider.value > 145) {
+      document.getElementById("value").style.color = "#d65836";
+      document.getElementById("percent").style.color = "#d65836";
     }
-    /*      else if (slider.value > 145) {
-           document.getElementById("value").style.color = "#d65836";
-          document.getElementById("percent").style.color = "#d65836";
-          }
 
-          else {
+    /*      else {
             document.getElementById("value").style.color = "#33765f";
           document.getElementById("percent").style.color = "#33765f";
           }
