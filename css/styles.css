@@ -30,13 +30,13 @@ h1 {
 
 /* start body of text */
 
-/*.container {
-  width:70%;
-  margin:2%;
-  float:right;
+.container {
+  width: 70%;
+  margin: 2%;
+  float: right;
 }
 
-#words{
+/*#words{
   font-family: 'Merriweather', serif;
   font-size:2em;
 }
