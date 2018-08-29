@@ -36,12 +36,12 @@ h1 {
   float: right;
 }
 
-/*#words{
+#words {
   font-family: 'Merriweather', serif;
-  font-size:2em;
+  font-size: 2em;
 }
 
-mark {
+/*mark {
   background-color:#fff;
 
 }
