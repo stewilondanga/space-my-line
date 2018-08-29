@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:600');
+body {
+  background-color: #dddeee;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,8 +31,6 @@
 */
 
 /*
-
-body {background-color:#dddeee;}
 
 h1 {
     font-family: 'Montserrat', sans-serif;
